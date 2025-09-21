@@ -1,4 +1,4 @@
-# 👋 Bienvenidos a mi rincón del código  
+# <p align="center">👋 Bienvenidos a mi rincón del código </p>  
 
 ## 👨‍💻 Hola, soy Juan Pablo Rojas  
 
