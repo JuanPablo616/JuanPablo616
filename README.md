@@ -37,9 +37,9 @@ Me gusta aprender constantemente y crear proyectos que resuelvan problemas reale
   <img src="https://streak-stats.demolab.com?user=JuanPablo616&locale=es&mode=daily&theme=aura_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<p align="center">Contáctame 📞</p>
 
-###
+## <p align="center">Contáctame 📞</p>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/juan-pablo-rojas-uribe-b50207249/">
