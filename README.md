@@ -1,17 +1,15 @@
-<h1 align="center">Bienvenidos a mi rincón del código</h1>
+# 👋 Bienvenidos a mi rincón del código  
 
-###
+## 👨‍💻 Hola, soy Juan Pablo Rojas  
 
-<h2 align="left">👨‍💻 Hola, soy Juan Pablo Rojas</h2>
+🚀 Soy estudiante de **Desarrollo de Software** con pasión por el **Desarrollo Web** y *Tecnologías modernas*.  
+Me gusta aprender constantemente y crear proyectos que resuelvan problemas reales.  
 
-###
+## 📚 Sobre mí  
 
-<p align="left">🚀  Soy estudiante de *Desarrollo de Software* con pasión por el **desarrollo web** y *tecnologías modernas*.<br>Me gusta aprender constantemente y crear proyectos que resuelvan problemas reales.</p>
-
-###
-
-<p align="left">📚 Sobre mí<br>- 🎯 Actualmente me encuentro profundizando en **TypeScript + Next.js**<br>- 📖 En formación constante para crecer como **Full Stack Developer**<br>- 🤝 Abierto a colaborar en proyectos de aprendizaje y de la comunidad</p>
-
+- 🎯 Actualmente me encuentro profundizando en **TypeScript + Next.js**  
+- 📖 En formación constante para crecer como **Full Stack Developer**  
+- 🤝 Abierto a colaborar en proyectos de aprendizaje y de la comunidad  
 ###
 
 <div align="center">
