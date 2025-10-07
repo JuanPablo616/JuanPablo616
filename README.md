@@ -24,7 +24,7 @@ Me gusta aprender constantemente y crear proyectos que resuelvan problemas reale
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
