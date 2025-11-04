@@ -13,6 +13,7 @@ Me gusta aprender constantemente y crear proyectos que resuelvan problemas reale
 ###
 
 <p align="center">Tecnologías</p>
+<br clear="both">
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
@@ -30,6 +31,8 @@ Me gusta aprender constantemente y crear proyectos que resuelvan problemas reale
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
 </div>
+
+<br clear="both">
 
 <p align="center">Herramientas</p>
 
