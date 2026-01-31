@@ -7,7 +7,7 @@ Me gusta aprender constantemente y crear proyectos que resuelvan problemas reale
 
 ## 📚 Sobre mí  
 
-- 🎯 Actualmente me encuentro profundizando en **TypeScript + React.js + Next.js**  
+- 🎯 Actualmente me encuentro profundizando en **TypeScript + React.js/React Native + Next.js**  
 - 📖 En formación constante para crecer como **Full Stack Developer**  
 - 🤝 Abierto a colaborar en proyectos de aprendizaje y de la comunidad  
 ###
